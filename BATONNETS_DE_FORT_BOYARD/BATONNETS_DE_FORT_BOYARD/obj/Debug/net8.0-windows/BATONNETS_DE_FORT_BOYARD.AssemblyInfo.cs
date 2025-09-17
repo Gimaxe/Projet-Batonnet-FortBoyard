@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BATONNETS_DE_FORT_BOYARD")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7cb4cea4670fcc01d77e097c79ddce7a2db252a4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+53a6bd4998726530a50b355d4f8a8f6b58fb4312")]
 [assembly: System.Reflection.AssemblyProductAttribute("BATONNETS_DE_FORT_BOYARD")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BATONNETS_DE_FORT_BOYARD")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
