@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Daisuke\\Documents\\Travail\\Dev\\TP\\Projet-Batonnet-FortBoyard\\BATONNETS_DE_FORT_BOYARD\\BATONNETS_DE_FORT_BOYARD\\BATONNETS_DE_FORT_BOYARD.csproj": {}
+    "C:\\Users\\Pc-AtraxeV2\\OneDrive\\Documents\\CFAI\\C#\\Projet-Batonnet-FortBoyard\\BATONNETS_DE_FORT_BOYARD\\BATONNETS_DE_FORT_BOYARD\\BATONNETS_DE_FORT_BOYARD.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Daisuke\\Documents\\Travail\\Dev\\TP\\Projet-Batonnet-FortBoyard\\BATONNETS_DE_FORT_BOYARD\\BATONNETS_DE_FORT_BOYARD\\BATONNETS_DE_FORT_BOYARD.csproj": {
+    "C:\\Users\\Pc-AtraxeV2\\OneDrive\\Documents\\CFAI\\C#\\Projet-Batonnet-FortBoyard\\BATONNETS_DE_FORT_BOYARD\\BATONNETS_DE_FORT_BOYARD\\BATONNETS_DE_FORT_BOYARD.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Daisuke\\Documents\\Travail\\Dev\\TP\\Projet-Batonnet-FortBoyard\\BATONNETS_DE_FORT_BOYARD\\BATONNETS_DE_FORT_BOYARD\\BATONNETS_DE_FORT_BOYARD.csproj",
+        "projectUniqueName": "C:\\Users\\Pc-AtraxeV2\\OneDrive\\Documents\\CFAI\\C#\\Projet-Batonnet-FortBoyard\\BATONNETS_DE_FORT_BOYARD\\BATONNETS_DE_FORT_BOYARD\\BATONNETS_DE_FORT_BOYARD.csproj",
         "projectName": "BATONNETS_DE_FORT_BOYARD",
-        "projectPath": "C:\\Users\\Daisuke\\Documents\\Travail\\Dev\\TP\\Projet-Batonnet-FortBoyard\\BATONNETS_DE_FORT_BOYARD\\BATONNETS_DE_FORT_BOYARD\\BATONNETS_DE_FORT_BOYARD.csproj",
-        "packagesPath": "C:\\Users\\Daisuke\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Daisuke\\Documents\\Travail\\Dev\\TP\\Projet-Batonnet-FortBoyard\\BATONNETS_DE_FORT_BOYARD\\BATONNETS_DE_FORT_BOYARD\\obj\\",
+        "projectPath": "C:\\Users\\Pc-AtraxeV2\\OneDrive\\Documents\\CFAI\\C#\\Projet-Batonnet-FortBoyard\\BATONNETS_DE_FORT_BOYARD\\BATONNETS_DE_FORT_BOYARD\\BATONNETS_DE_FORT_BOYARD.csproj",
+        "packagesPath": "C:\\Users\\Pc-AtraxeV2\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Pc-AtraxeV2\\OneDrive\\Documents\\CFAI\\C#\\Projet-Batonnet-FortBoyard\\BATONNETS_DE_FORT_BOYARD\\BATONNETS_DE_FORT_BOYARD\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Daisuke\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Pc-AtraxeV2\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -86,7 +86,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
