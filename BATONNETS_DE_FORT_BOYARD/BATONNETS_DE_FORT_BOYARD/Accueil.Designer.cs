@@ -46,17 +46,18 @@
             // btConnexion
             // 
             btConnexion.Location = new Point(30, 65);
-            btConnexion.Margin = new Padding(2, 2, 2, 2);
+            btConnexion.Margin = new Padding(2);
             btConnexion.Name = "btConnexion";
             btConnexion.Size = new Size(81, 24);
             btConnexion.TabIndex = 1;
             btConnexion.Text = "Connexion";
             btConnexion.UseVisualStyleBackColor = true;
+            btConnexion.Click += btConnexion_Click;
             // 
             // btnInscription
             // 
             btnInscription.Location = new Point(122, 65);
-            btnInscription.Margin = new Padding(2, 2, 2, 2);
+            btnInscription.Margin = new Padding(2);
             btnInscription.Name = "btnInscription";
             btnInscription.Size = new Size(81, 24);
             btnInscription.TabIndex = 2;
@@ -72,7 +73,7 @@
             Controls.Add(btnInscription);
             Controls.Add(btConnexion);
             Controls.Add(labJeuFortBoyard);
-            Margin = new Padding(2, 2, 2, 2);
+            Margin = new Padding(2);
             Name = "Accueil";
             Text = "Form1";
             ResumeLayout(false);
