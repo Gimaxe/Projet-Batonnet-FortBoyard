@@ -16,6 +16,9 @@
     <Compile Update="PageCreerPartie.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="PagePartie.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="PageRejoindrePartie.cs">
       <SubType>Form</SubType>
     </Compile>
