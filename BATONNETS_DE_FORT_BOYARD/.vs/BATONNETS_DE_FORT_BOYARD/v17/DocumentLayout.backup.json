@@ -1,12 +1,104 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Pc-AtraxeV2\\OneDrive\\Documents\\CFAI\\C#\\Projet-Batonnet-FortBoyard\\BATONNETS_DE_FORT_BOYARD\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Daisuke\\Documents\\Travail\\Dev\\TP\\Projet-Batonnet-FortBoyard\\BATONNETS_DE_FORT_BOYARD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85F8B167-D08B-4597-A4A8-D43CA7F0F191}|BATONNETS_DE_FORT_BOYARD\\BATONNETS_DE_FORT_BOYARD.csproj|c:\\users\\daisuke\\documents\\travail\\dev\\tp\\projet-batonnet-fortboyard\\batonnets_de_fort_boyard\\batonnets_de_fort_boyard\\inscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F8B167-D08B-4597-A4A8-D43CA7F0F191}|BATONNETS_DE_FORT_BOYARD\\BATONNETS_DE_FORT_BOYARD.csproj|solutionrelative:batonnets_de_fort_boyard\\inscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F8B167-D08B-4597-A4A8-D43CA7F0F191}|BATONNETS_DE_FORT_BOYARD\\BATONNETS_DE_FORT_BOYARD.csproj|c:\\users\\daisuke\\documents\\travail\\dev\\tp\\projet-batonnet-fortboyard\\batonnets_de_fort_boyard\\batonnets_de_fort_boyard\\inscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{85F8B167-D08B-4597-A4A8-D43CA7F0F191}|BATONNETS_DE_FORT_BOYARD\\BATONNETS_DE_FORT_BOYARD.csproj|solutionrelative:batonnets_de_fort_boyard\\inscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F8B167-D08B-4597-A4A8-D43CA7F0F191}|BATONNETS_DE_FORT_BOYARD\\BATONNETS_DE_FORT_BOYARD.csproj|c:\\users\\daisuke\\documents\\travail\\dev\\tp\\projet-batonnet-fortboyard\\batonnets_de_fort_boyard\\batonnets_de_fort_boyard\\accueil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F8B167-D08B-4597-A4A8-D43CA7F0F191}|BATONNETS_DE_FORT_BOYARD\\BATONNETS_DE_FORT_BOYARD.csproj|solutionrelative:batonnets_de_fort_boyard\\accueil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F8B167-D08B-4597-A4A8-D43CA7F0F191}|BATONNETS_DE_FORT_BOYARD\\BATONNETS_DE_FORT_BOYARD.csproj|c:\\users\\daisuke\\documents\\travail\\dev\\tp\\projet-batonnet-fortboyard\\batonnets_de_fort_boyard\\batonnets_de_fort_boyard\\accueil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{85F8B167-D08B-4597-A4A8-D43CA7F0F191}|BATONNETS_DE_FORT_BOYARD\\BATONNETS_DE_FORT_BOYARD.csproj|solutionrelative:batonnets_de_fort_boyard\\accueil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedHeight": 298,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Accueil.cs",
+              "DocumentMoniker": "C:\\Users\\Daisuke\\Documents\\Travail\\Dev\\TP\\Projet-Batonnet-FortBoyard\\BATONNETS_DE_FORT_BOYARD\\BATONNETS_DE_FORT_BOYARD\\Accueil.cs",
+              "RelativeDocumentMoniker": "BATONNETS_DE_FORT_BOYARD\\Accueil.cs",
+              "ToolTip": "C:\\Users\\Daisuke\\Documents\\Travail\\Dev\\TP\\Projet-Batonnet-FortBoyard\\BATONNETS_DE_FORT_BOYARD\\BATONNETS_DE_FORT_BOYARD\\Accueil.cs",
+              "RelativeToolTip": "BATONNETS_DE_FORT_BOYARD\\Accueil.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAowAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T11:58:23.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Accueil.cs [Conception]",
+              "DocumentMoniker": "C:\\Users\\Daisuke\\Documents\\Travail\\Dev\\TP\\Projet-Batonnet-FortBoyard\\BATONNETS_DE_FORT_BOYARD\\BATONNETS_DE_FORT_BOYARD\\Accueil.cs",
+              "RelativeDocumentMoniker": "BATONNETS_DE_FORT_BOYARD\\Accueil.cs",
+              "ToolTip": "C:\\Users\\Daisuke\\Documents\\Travail\\Dev\\TP\\Projet-Batonnet-FortBoyard\\BATONNETS_DE_FORT_BOYARD\\BATONNETS_DE_FORT_BOYARD\\Accueil.cs [Conception]",
+              "RelativeToolTip": "BATONNETS_DE_FORT_BOYARD\\Accueil.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T11:58:18.066Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Inscription.cs",
+              "DocumentMoniker": "C:\\Users\\Daisuke\\Documents\\Travail\\Dev\\TP\\Projet-Batonnet-FortBoyard\\BATONNETS_DE_FORT_BOYARD\\BATONNETS_DE_FORT_BOYARD\\Inscription.cs",
+              "RelativeDocumentMoniker": "BATONNETS_DE_FORT_BOYARD\\Inscription.cs",
+              "ToolTip": "C:\\Users\\Daisuke\\Documents\\Travail\\Dev\\TP\\Projet-Batonnet-FortBoyard\\BATONNETS_DE_FORT_BOYARD\\BATONNETS_DE_FORT_BOYARD\\Inscription.cs*",
+              "RelativeToolTip": "BATONNETS_DE_FORT_BOYARD\\Inscription.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAowB8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T11:40:14.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Inscription.cs [Conception]",
+              "DocumentMoniker": "C:\\Users\\Daisuke\\Documents\\Travail\\Dev\\TP\\Projet-Batonnet-FortBoyard\\BATONNETS_DE_FORT_BOYARD\\BATONNETS_DE_FORT_BOYARD\\Inscription.cs",
+              "RelativeDocumentMoniker": "BATONNETS_DE_FORT_BOYARD\\Inscription.cs",
+              "ToolTip": "C:\\Users\\Daisuke\\Documents\\Travail\\Dev\\TP\\Projet-Batonnet-FortBoyard\\BATONNETS_DE_FORT_BOYARD\\BATONNETS_DE_FORT_BOYARD\\Inscription.cs [Conception]*",
+              "RelativeToolTip": "BATONNETS_DE_FORT_BOYARD\\Inscription.cs [Conception]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T10:26:31.195Z",
+              "EditorCaption": " [Conception]"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 136,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
