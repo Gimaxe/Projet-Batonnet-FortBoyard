@@ -1,4 +1,5 @@
-﻿using System;
+﻿using BATONNETS_DE_FORT_BOYARD.Models;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -15,6 +16,19 @@ namespace BATONNETS_DE_FORT_BOYARD
         public Connexion()
         {
             InitializeComponent();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                using FortBoyardRomainMathisContext = new FortBoyardRomainMathisContext();
+
+            }
+            catch (Exception ex) {
+            {
+                    MessageBox.Show(ex.Message);
+            }
         }
     }
 }
