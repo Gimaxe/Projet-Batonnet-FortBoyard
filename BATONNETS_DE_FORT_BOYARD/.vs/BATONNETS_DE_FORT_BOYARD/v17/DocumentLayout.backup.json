@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pc-AtraxeV2\\source\\repos\\BATONNETS_DE_FORT_BOYARD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85F8B167-D08B-4597-A4A8-D43CA7F0F191}|BATONNETS_DE_FORT_BOYARD\\BATONNETS_DE_FORT_BOYARD.csproj|c:\\users\\pc-atraxev2\\source\\repos\\batonnets_de_fort_boyard\\batonnets_de_fort_boyard\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{85F8B167-D08B-4597-A4A8-D43CA7F0F191}|BATONNETS_DE_FORT_BOYARD\\BATONNETS_DE_FORT_BOYARD.csproj|solutionrelative:batonnets_de_fort_boyard\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Pc-AtraxeV2\\source\\repos\\BATONNETS_DE_FORT_BOYARD\\BATONNETS_DE_FORT_BOYARD\\Form1.cs",
+              "RelativeDocumentMoniker": "BATONNETS_DE_FORT_BOYARD\\Form1.cs",
+              "ToolTip": "C:\\Users\\Pc-AtraxeV2\\source\\repos\\BATONNETS_DE_FORT_BOYARD\\BATONNETS_DE_FORT_BOYARD\\Form1.cs [Design]",
+              "RelativeToolTip": "BATONNETS_DE_FORT_BOYARD\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T08:22:53.195Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
