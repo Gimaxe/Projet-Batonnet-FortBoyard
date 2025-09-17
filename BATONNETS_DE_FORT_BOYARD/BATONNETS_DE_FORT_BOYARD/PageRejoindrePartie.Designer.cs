@@ -28,12 +28,66 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Text = "PageRejoindrePartie";
+            labNomPartie = new Label();
+            textBox1 = new TextBox();
+            labCodePartie = new Label();
+            btnRejoidrePartie = new Button();
+            SuspendLayout();
+            // 
+            // labNomPartie
+            // 
+            labNomPartie.AutoSize = true;
+            labNomPartie.Location = new Point(301, 47);
+            labNomPartie.Name = "labNomPartie";
+            labNomPartie.Size = new Size(223, 32);
+            labNomPartie.TabIndex = 0;
+            labNomPartie.Text = "Rejoindre la Partie *";
+            // 
+            // textBox1
+            // 
+            textBox1.Location = new Point(404, 207);
+            textBox1.Name = "textBox1";
+            textBox1.Size = new Size(200, 39);
+            textBox1.TabIndex = 1;
+            // 
+            // labCodePartie
+            // 
+            labCodePartie.AutoSize = true;
+            labCodePartie.Location = new Point(161, 200);
+            labCodePartie.Name = "labCodePartie";
+            labCodePartie.Size = new Size(184, 32);
+            labCodePartie.TabIndex = 2;
+            labCodePartie.Text = "Code de partie :";
+            // 
+            // btnRejoidrePartie
+            // 
+            btnRejoidrePartie.Location = new Point(175, 308);
+            btnRejoidrePartie.Name = "btnRejoidrePartie";
+            btnRejoidrePartie.Size = new Size(270, 46);
+            btnRejoidrePartie.TabIndex = 3;
+            btnRejoidrePartie.Text = "Rejoindre la partie";
+            btnRejoidrePartie.UseVisualStyleBackColor = true;
+            // 
+            // PageRejoindrePartie
+            // 
+            AutoScaleDimensions = new SizeF(13F, 32F);
+            AutoScaleMode = AutoScaleMode.Font;
+            ClientSize = new Size(800, 450);
+            Controls.Add(btnRejoidrePartie);
+            Controls.Add(labCodePartie);
+            Controls.Add(textBox1);
+            Controls.Add(labNomPartie);
+            Name = "PageRejoindrePartie";
+            Text = "PageRejoindrePartie";
+            ResumeLayout(false);
+            PerformLayout();
         }
 
         #endregion
+
+        private Label labNomPartie;
+        private TextBox textBox1;
+        private Label labCodePartie;
+        private Button btnRejoidrePartie;
     }
 }
