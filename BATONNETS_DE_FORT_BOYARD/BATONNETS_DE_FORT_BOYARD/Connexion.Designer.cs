@@ -30,10 +30,10 @@
         {
             label1 = new Label();
             label2 = new Label();
-            textBox1 = new TextBox();
-            textBox2 = new TextBox();
+            Txt_UserName = new TextBox();
+            Txt_Password = new TextBox();
             label3 = new Label();
-            button1 = new Button();
+            Btn_Connexion = new Button();
             SuspendLayout();
             // 
             // label1
@@ -54,19 +54,19 @@
             label2.TabIndex = 1;
             label2.Text = "Nom d'utilisateur";
             // 
-            // textBox1
+            // Txt_UserName
             // 
-            textBox1.Location = new Point(126, 60);
-            textBox1.Name = "textBox1";
-            textBox1.Size = new Size(110, 25);
-            textBox1.TabIndex = 2;
+            Txt_UserName.Location = new Point(126, 60);
+            Txt_UserName.Name = "Txt_UserName";
+            Txt_UserName.Size = new Size(110, 25);
+            Txt_UserName.TabIndex = 2;
             // 
-            // textBox2
+            // Txt_Password
             // 
-            textBox2.Location = new Point(126, 91);
-            textBox2.Name = "textBox2";
-            textBox2.Size = new Size(110, 25);
-            textBox2.TabIndex = 4;
+            Txt_Password.Location = new Point(126, 91);
+            Txt_Password.Name = "Txt_Password";
+            Txt_Password.Size = new Size(110, 25);
+            Txt_Password.TabIndex = 4;
             // 
             // label3
             // 
@@ -77,25 +77,25 @@
             label3.TabIndex = 3;
             label3.Text = "Mot de passe";
             // 
-            // button1
+            // Btn_Connexion
             // 
-            button1.Location = new Point(68, 134);
-            button1.Name = "button1";
-            button1.Size = new Size(103, 25);
-            button1.TabIndex = 5;
-            button1.Text = "Se connecter";
-            button1.UseVisualStyleBackColor = true;
-            button1.Click += button1_Click;
+            Btn_Connexion.Location = new Point(68, 134);
+            Btn_Connexion.Name = "Btn_Connexion";
+            Btn_Connexion.Size = new Size(103, 25);
+            Btn_Connexion.TabIndex = 5;
+            Btn_Connexion.Text = "Se connecter";
+            Btn_Connexion.UseVisualStyleBackColor = true;
+            Btn_Connexion.Click += button1_Click;
             // 
             // Connexion
             // 
             AutoScaleDimensions = new SizeF(7F, 17F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(255, 167);
-            Controls.Add(button1);
-            Controls.Add(textBox2);
+            Controls.Add(Btn_Connexion);
+            Controls.Add(Txt_Password);
             Controls.Add(label3);
-            Controls.Add(textBox1);
+            Controls.Add(Txt_UserName);
             Controls.Add(label2);
             Controls.Add(label1);
             Name = "Connexion";
@@ -108,9 +108,9 @@
 
         private Label label1;
         private Label label2;
-        private TextBox textBox1;
-        private TextBox textBox2;
+        private TextBox Txt_UserName;
+        private TextBox Txt_Password;
         private Label label3;
-        private Button button1;
+        private Button Btn_Connexion;
     }
 }

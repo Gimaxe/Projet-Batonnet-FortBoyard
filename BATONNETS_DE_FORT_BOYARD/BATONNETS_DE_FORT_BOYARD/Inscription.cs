@@ -5,6 +5,8 @@ using System.ComponentModel;
 using System.Data;
 using System.Drawing;
 using System.Linq;
+using System.Runtime.Intrinsics.Arm;
+using System.Security.Policy;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
@@ -27,9 +29,11 @@ namespace BATONNETS_DE_FORT_BOYARD
                 compte.Nom = Txt_Name.Text;
                 compte.Prenom = Txt_Prenom.Text;
                 compte.Pseudo = Txt_UserName.Text;
-                compte.MotDePasse = Txt_Password.Text;
+                compte.MotDePasse = HashPassword.Hash(Txt_Password.Text);
                 db.Comptes.Add(compte);
                 db.SaveChanges();
+                MessageBox.Show("Inscriprion Réussi !");
+                Close();
             }
             catch (Exception ex) 
             {

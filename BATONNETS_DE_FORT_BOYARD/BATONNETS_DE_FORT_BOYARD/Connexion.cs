@@ -22,12 +22,21 @@ namespace BATONNETS_DE_FORT_BOYARD
         {
             try
             {
-                using FortBoyardRomainMathisContext = new FortBoyardRomainMathisContext();
+                using FortBoyardRomainMathisContext db = new FortBoyardRomainMathisContext();
+                Compte compte = new Compte();
+
+                string VerifyPassword = db.Comptes.Where(o => o.Pseudo == Txt_UserName.Text).ToString();
+                if (compte.MotDePasse(VerifyPassword) == HashPassword.Hash(Txt_Password.Text))
+                {
+                    MessageBox.Show("Test OK");
+                }
 
             }
-            catch (Exception ex) {
+            catch (Exception ex)
             {
+                {
                     MessageBox.Show(ex.Message);
+                }
             }
         }
     }
