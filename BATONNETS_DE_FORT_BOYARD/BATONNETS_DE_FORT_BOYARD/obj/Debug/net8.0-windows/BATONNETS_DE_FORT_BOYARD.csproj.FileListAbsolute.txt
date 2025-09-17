@@ -143,3 +143,6 @@ C:\Users\Daisuke\Documents\Travail\Dev\TP\Projet-Batonnet-FortBoyard\BATONNETS_D
 C:\Users\Daisuke\Documents\Travail\Dev\TP\Projet-Batonnet-FortBoyard\BATONNETS_DE_FORT_BOYARD\BATONNETS_DE_FORT_BOYARD\obj\Debug\net8.0-windows\BATONNETS_DE_FORT_BOYARD.pdb
 C:\Users\Daisuke\Documents\Travail\Dev\TP\Projet-Batonnet-FortBoyard\BATONNETS_DE_FORT_BOYARD\BATONNETS_DE_FORT_BOYARD\obj\Debug\net8.0-windows\BATONNETS_DE_FORT_BOYARD.genruntimeconfig.cache
 C:\Users\Daisuke\Documents\Travail\Dev\TP\Projet-Batonnet-FortBoyard\BATONNETS_DE_FORT_BOYARD\BATONNETS_DE_FORT_BOYARD\obj\Debug\net8.0-windows\ref\BATONNETS_DE_FORT_BOYARD.dll
+C:\Users\Daisuke\Documents\Travail\Dev\TP\Projet-Batonnet-FortBoyard\BATONNETS_DE_FORT_BOYARD\BATONNETS_DE_FORT_BOYARD\obj\Debug\net8.0-windows\BATONNETS_DE_FORT_BOYARD.Connexion.resources
+C:\Users\Daisuke\Documents\Travail\Dev\TP\Projet-Batonnet-FortBoyard\BATONNETS_DE_FORT_BOYARD\BATONNETS_DE_FORT_BOYARD\obj\Debug\net8.0-windows\BATONNETS_DE_FORT_BOYARD.Inscription.resources
+C:\Users\Daisuke\Documents\Travail\Dev\TP\Projet-Batonnet-FortBoyard\BATONNETS_DE_FORT_BOYARD\BATONNETS_DE_FORT_BOYARD\obj\Debug\net8.0-windows\BATONNETS_DE_FORT_BOYARD.PageCreerPartie.resources

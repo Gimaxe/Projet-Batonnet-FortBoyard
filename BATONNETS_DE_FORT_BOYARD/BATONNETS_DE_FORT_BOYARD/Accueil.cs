@@ -6,5 +6,11 @@ namespace BATONNETS_DE_FORT_BOYARD
         {
             InitializeComponent();
         }
+
+        private void btnInscription_Click(object sender, EventArgs e)
+        {
+            Inscription inscription = new Inscription();
+            inscription.Show();
+        }
     }
 }

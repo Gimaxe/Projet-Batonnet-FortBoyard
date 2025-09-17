@@ -36,39 +36,44 @@
             // labJeuFortBoyard
             // 
             labJeuFortBoyard.AutoSize = true;
-            labJeuFortBoyard.Location = new Point(42, 34);
+            labJeuFortBoyard.Location = new Point(23, 18);
+            labJeuFortBoyard.Margin = new Padding(2, 0, 2, 0);
             labJeuFortBoyard.Name = "labJeuFortBoyard";
-            labJeuFortBoyard.Size = new Size(383, 32);
+            labJeuFortBoyard.Size = new Size(210, 17);
             labJeuFortBoyard.TabIndex = 0;
             labJeuFortBoyard.Text = "Le jeu des bâtonnet de FortBoyard";
             // 
             // btConnexion
             // 
-            btConnexion.Location = new Point(56, 123);
+            btConnexion.Location = new Point(30, 65);
+            btConnexion.Margin = new Padding(2, 2, 2, 2);
             btConnexion.Name = "btConnexion";
-            btConnexion.Size = new Size(150, 46);
+            btConnexion.Size = new Size(81, 24);
             btConnexion.TabIndex = 1;
             btConnexion.Text = "Connexion";
             btConnexion.UseVisualStyleBackColor = true;
             // 
             // btnInscription
             // 
-            btnInscription.Location = new Point(227, 123);
+            btnInscription.Location = new Point(122, 65);
+            btnInscription.Margin = new Padding(2, 2, 2, 2);
             btnInscription.Name = "btnInscription";
-            btnInscription.Size = new Size(150, 46);
+            btnInscription.Size = new Size(81, 24);
             btnInscription.TabIndex = 2;
             btnInscription.Text = "Inscription";
             btnInscription.UseVisualStyleBackColor = true;
+            btnInscription.Click += btnInscription_Click;
             // 
-            // Form1
+            // Accueil
             // 
-            AutoScaleDimensions = new SizeF(13F, 32F);
+            AutoScaleDimensions = new SizeF(7F, 17F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(458, 200);
+            ClientSize = new Size(247, 106);
             Controls.Add(btnInscription);
             Controls.Add(btConnexion);
             Controls.Add(labJeuFortBoyard);
-            Name = "Form1";
+            Margin = new Padding(2, 2, 2, 2);
+            Name = "Accueil";
             Text = "Form1";
             ResumeLayout(false);
             PerformLayout();

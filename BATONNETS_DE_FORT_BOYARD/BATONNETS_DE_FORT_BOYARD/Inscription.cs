@@ -1,4 +1,5 @@
-﻿using System;
+﻿using BATONNETS_DE_FORT_BOYARD.Models;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -15,6 +16,26 @@ namespace BATONNETS_DE_FORT_BOYARD
         public Inscription()
         {
             InitializeComponent();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                using FortBoyardRomainMathisContext db = new FortBoyardRomainMathisContext();
+                Compte compte = new Compte();
+                compte.Nom = Txt_Name.Text;
+                compte.Prenom = Txt_Prenom.Text;
+                compte.Pseudo = Txt_UserName.Text;
+                compte.MotDePasse = Txt_Password.Text;
+                db.Comptes.Add(compte);
+                db.SaveChanges();
+            }
+            catch (Exception ex) 
+            {
+                MessageBox.Show("Erreur :" + ex.Message );
+            }
+
         }
     }
 }
